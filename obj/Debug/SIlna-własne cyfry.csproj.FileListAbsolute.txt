@@ -1,0 +1,8 @@
+C:\Users\dawid\Desktop\Visiual studio Code\SIlna-własne cyfry\SIlna-własne cyfry\obj\Debug\SIlna-własne cyfry.csproj.AssemblyReference.cache
+C:\Users\dawid\Desktop\Visiual studio Code\SIlna-własne cyfry\SIlna-własne cyfry\obj\Debug\SIlna-własne cyfry.csproj.SuggestedBindingRedirects.cache
+C:\Users\dawid\Desktop\Visiual studio Code\SIlna-własne cyfry\SIlna-własne cyfry\obj\Debug\SIlna-własne cyfry.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\Visiual studio Code\SIlna-własne cyfry\SIlna-własne cyfry\bin\Debug\SIlna-własne cyfry.exe.config
+C:\Users\dawid\Desktop\Visiual studio Code\SIlna-własne cyfry\SIlna-własne cyfry\bin\Debug\SIlna-własne cyfry.exe
+C:\Users\dawid\Desktop\Visiual studio Code\SIlna-własne cyfry\SIlna-własne cyfry\bin\Debug\SIlna-własne cyfry.pdb
+C:\Users\dawid\Desktop\Visiual studio Code\SIlna-własne cyfry\SIlna-własne cyfry\obj\Debug\SIlna-własne cyfry.exe
+C:\Users\dawid\Desktop\Visiual studio Code\SIlna-własne cyfry\SIlna-własne cyfry\obj\Debug\SIlna-własne cyfry.pdb
