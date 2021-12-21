@@ -1,0 +1,8 @@
+C:\Users\dawid\Desktop\Visiual studio Code\Zad2\Zad2\bin\Debug\Zad2.exe.config
+C:\Users\dawid\Desktop\Visiual studio Code\Zad2\Zad2\bin\Debug\Zad2.exe
+C:\Users\dawid\Desktop\Visiual studio Code\Zad2\Zad2\bin\Debug\Zad2.pdb
+C:\Users\dawid\Desktop\Visiual studio Code\Zad2\Zad2\obj\Debug\Zad2.csproj.AssemblyReference.cache
+C:\Users\dawid\Desktop\Visiual studio Code\Zad2\Zad2\obj\Debug\Zad2.csproj.SuggestedBindingRedirects.cache
+C:\Users\dawid\Desktop\Visiual studio Code\Zad2\Zad2\obj\Debug\Zad2.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\Visiual studio Code\Zad2\Zad2\obj\Debug\Zad2.exe
+C:\Users\dawid\Desktop\Visiual studio Code\Zad2\Zad2\obj\Debug\Zad2.pdb
