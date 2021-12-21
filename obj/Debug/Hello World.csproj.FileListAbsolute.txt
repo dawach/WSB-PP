@@ -1,0 +1,8 @@
+C:\Users\dawid\Desktop\Visiual studio Code\Hello World\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\dawid\Desktop\Visiual studio Code\Hello World\Hello World\bin\Debug\Hello World.exe
+C:\Users\dawid\Desktop\Visiual studio Code\Hello World\Hello World\bin\Debug\Hello World.pdb
+C:\Users\dawid\Desktop\Visiual studio Code\Hello World\Hello World\obj\Debug\Hello World.csproj.AssemblyReference.cache
+C:\Users\dawid\Desktop\Visiual studio Code\Hello World\Hello World\obj\Debug\Hello World.csproj.SuggestedBindingRedirects.cache
+C:\Users\dawid\Desktop\Visiual studio Code\Hello World\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\Visiual studio Code\Hello World\Hello World\obj\Debug\Hello World.exe
+C:\Users\dawid\Desktop\Visiual studio Code\Hello World\Hello World\obj\Debug\Hello World.pdb
