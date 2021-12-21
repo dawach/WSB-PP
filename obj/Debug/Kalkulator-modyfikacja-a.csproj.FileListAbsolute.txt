@@ -1,0 +1,8 @@
+C:\Users\dawid\Desktop\Visiual studio Code\Kalkulator-modyfikacja-a\Kalkulator-modyfikacja-a\obj\Debug\Kalkulator-modyfikacja-a.csproj.AssemblyReference.cache
+C:\Users\dawid\Desktop\Visiual studio Code\Kalkulator-modyfikacja-a\Kalkulator-modyfikacja-a\obj\Debug\Kalkulator-modyfikacja-a.csproj.SuggestedBindingRedirects.cache
+C:\Users\dawid\Desktop\Visiual studio Code\Kalkulator-modyfikacja-a\Kalkulator-modyfikacja-a\obj\Debug\Kalkulator-modyfikacja-a.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\Visiual studio Code\Kalkulator-modyfikacja-a\Kalkulator-modyfikacja-a\bin\Debug\Kalkulator-modyfikacja-a.exe.config
+C:\Users\dawid\Desktop\Visiual studio Code\Kalkulator-modyfikacja-a\Kalkulator-modyfikacja-a\bin\Debug\Kalkulator-modyfikacja-a.exe
+C:\Users\dawid\Desktop\Visiual studio Code\Kalkulator-modyfikacja-a\Kalkulator-modyfikacja-a\bin\Debug\Kalkulator-modyfikacja-a.pdb
+C:\Users\dawid\Desktop\Visiual studio Code\Kalkulator-modyfikacja-a\Kalkulator-modyfikacja-a\obj\Debug\Kalkulator-modyfikacja-a.exe
+C:\Users\dawid\Desktop\Visiual studio Code\Kalkulator-modyfikacja-a\Kalkulator-modyfikacja-a\obj\Debug\Kalkulator-modyfikacja-a.pdb
