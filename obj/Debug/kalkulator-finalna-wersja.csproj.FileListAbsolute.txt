@@ -1,0 +1,8 @@
+C:\Users\dawid\Desktop\Visiual studio Code\kalkulator-finalna-wersja\kalkulator-finalna-wersja\bin\Debug\kalkulator-finalna-wersja.exe.config
+C:\Users\dawid\Desktop\Visiual studio Code\kalkulator-finalna-wersja\kalkulator-finalna-wersja\bin\Debug\kalkulator-finalna-wersja.exe
+C:\Users\dawid\Desktop\Visiual studio Code\kalkulator-finalna-wersja\kalkulator-finalna-wersja\bin\Debug\kalkulator-finalna-wersja.pdb
+C:\Users\dawid\Desktop\Visiual studio Code\kalkulator-finalna-wersja\kalkulator-finalna-wersja\obj\Debug\kalkulator-finalna-wersja.csproj.AssemblyReference.cache
+C:\Users\dawid\Desktop\Visiual studio Code\kalkulator-finalna-wersja\kalkulator-finalna-wersja\obj\Debug\kalkulator-finalna-wersja.csproj.SuggestedBindingRedirects.cache
+C:\Users\dawid\Desktop\Visiual studio Code\kalkulator-finalna-wersja\kalkulator-finalna-wersja\obj\Debug\kalkulator-finalna-wersja.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\Visiual studio Code\kalkulator-finalna-wersja\kalkulator-finalna-wersja\obj\Debug\kalkulator-finalna-wersja.exe
+C:\Users\dawid\Desktop\Visiual studio Code\kalkulator-finalna-wersja\kalkulator-finalna-wersja\obj\Debug\kalkulator-finalna-wersja.pdb
