@@ -1,0 +1,8 @@
+C:\Users\dawid\Desktop\Visiual studio Code\Kalkulator-b\Kalkulator-b\bin\Release\Kalkulator-b.exe.config
+C:\Users\dawid\Desktop\Visiual studio Code\Kalkulator-b\Kalkulator-b\bin\Release\Kalkulator-b.exe
+C:\Users\dawid\Desktop\Visiual studio Code\Kalkulator-b\Kalkulator-b\bin\Release\Kalkulator-b.pdb
+C:\Users\dawid\Desktop\Visiual studio Code\Kalkulator-b\Kalkulator-b\obj\Release\Kalkulator-b.csproj.AssemblyReference.cache
+C:\Users\dawid\Desktop\Visiual studio Code\Kalkulator-b\Kalkulator-b\obj\Release\Kalkulator-b.csproj.SuggestedBindingRedirects.cache
+C:\Users\dawid\Desktop\Visiual studio Code\Kalkulator-b\Kalkulator-b\obj\Release\Kalkulator-b.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\Visiual studio Code\Kalkulator-b\Kalkulator-b\obj\Release\Kalkulator-b.exe
+C:\Users\dawid\Desktop\Visiual studio Code\Kalkulator-b\Kalkulator-b\obj\Release\Kalkulator-b.pdb
